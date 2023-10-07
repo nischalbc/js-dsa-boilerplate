@@ -1,14 +1,16 @@
 {
   "name": "js-dsa-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest",
-    "start": "node algorithms/binary-search.js"
+    "start": "node algorithms/binary-search.js",
+    "test": "npx jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "js", "javascript", "learning", "DSA", "algorithms"
+  ],
+  "author": "Nischal Kumar B C",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
