@@ -79,18 +79,4 @@ class BinaryTree {
 
 }
 
-
-const bt = new BinaryTree();
-bt.add(9);
-bt.add(2);
-bt.add(8);
-bt.add(6);
-bt.add(16);
-bt.add(1);
-bt.add(19);
-bt.add(11);
-bt.search(212);
-bt.display();
-
-
 module.exports = BinaryTree
