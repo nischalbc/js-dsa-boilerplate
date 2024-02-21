@@ -16,8 +16,9 @@ npm install
 
 To run a file
 ``` 
-node algorithms/{filename}
+npm start --program=<filepath>
 ```
+eg: npm start --program='algorithms/linked-list.js'
 
 To run all tests
 ```

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node algorithms/binary-search.js",
+    "start": "node ${npm_config_program}",
     "test": "npx jest"
   },
   "keywords": [
